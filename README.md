@@ -125,7 +125,7 @@ ______
 	- Low Risk: 94%
 ______
 
-# Summary:
+# Summary
 
 The confusion matrix can be reviewed to generate the accuracy, precision and sensitivity of each model by following the below information:
 
