@@ -131,14 +131,14 @@ The confusion matrix can be reviewed to generate the accuracy, precision and sen
 
 |                | Predicted True | Predicted False |
 |:--------------:|:--------------:|:---------------:|
-| Actually True  |       TP       |       FN        |
-| Actually False |       FP       |       TN        |
+| Actually True  | True Positive  |  False Negative |
+| Actually False | False Positive |  True Negative  |
 
 - Accuracy:
-	- = (True Positives (TP) + True Negatives (TN)) / Total
+	- = (True Positive + True Negative) / Total
 - Precision:
-	- = True Positives (TP) / (True Positives (TP) + False Positives (FP))
+	- = True Positive / (True Positive + False Positive)
 - Sensitivity:
-	- = True Positives (TP) / (True Positives (TP) + False Negatives (FN)) 
+	- = True Positive / (True Positive + False Negative) 
 
 It is necessary for all scores to be stable and impartial. The only model that is and would be recommended is the Easy Ensemble ADABoost Classifier model. It Balanced Accuracy Score is significantly higher than all other models and the precison and recall scores as well significantly higher and stable.
