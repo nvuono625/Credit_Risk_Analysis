@@ -1,6 +1,6 @@
 # Overview 
 
-Before a loan is granted, a credit risk analysis needs to be conducted on the recipient to prevent high default rates. In this analysis, a few supervised machine learning models will be used to determine credit risks. [LoanStats_2019Q1.csv] contains a vast list of loans with categorical information about the recipient to grade the credit risk as either a good or risky loan. Multiple supervised machine learning models will try to predict the credit risk but which model will be the most effective?
+Before a loan is granted, a credit risk analysis needs to be conducted on the recipient to prevent high default rates. In this analysis, a few supervised machine learning models will be used to determine credit risks. [LoanStats_2019Q1.csv](https://github.com/nvuono625/Credit_Risk_Analysis/blob/main/Resources/LoanStats_2019Q1.csv) contains a vast list of loans with categorical information about the recipient to grade the credit risk as either a good or risky loan. Multiple supervised machine learning models will try to predict the credit risk but which model will be the most effective?
 _____
 
 # Results
